@@ -1,2 +1,3 @@
 # real-analisis-data-geofisika
-demi keberlangsungan hidup  di akhir semester ini
+Jangan lupa untuk menginstall module Thinkdsp terlebih dahulu jika ingin menggunakannya.
+Terima kasih
